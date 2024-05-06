@@ -6,7 +6,7 @@
 </div>  
   
 
-
+<br/>  
 
 ### Glad to see you here!  
 👋 Hi there! I'm Nethmika, a first-year university student passionate about Software Engineering and eager to learn and grow in the field. Welcome to my GitHub profile!
@@ -18,7 +18,7 @@
 🌱 Constantly learning and exploring new technologies and programming languages.  <br/>  
   
 
-
+<br/>  
 
 ### Contact Me  
 <a href="https://github.com/NethmikaJayasooriya" target="_blank">
@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
   
-
+<br/>  
 <br/>  
 
 <table><tr><td valign="top" width="50%">
