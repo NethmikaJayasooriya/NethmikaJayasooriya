@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Nethmika!  
   
 
-<div align="right">
+<div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU" align="center" height="200" width="300" />
 </div>  
   
@@ -32,18 +32,6 @@
 </a>  
   
 <br/>  
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
