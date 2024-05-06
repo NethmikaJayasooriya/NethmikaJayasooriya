@@ -13,9 +13,9 @@
 
 🎓 About Me:
 
-📚 Currently pursuing a Bachelor's degree in Software Engineering.
-💻 Enthusiastic about coding, problem-solving, and building innovative software solutions.
-🌱 Constantly learning and exploring new technologies and programming languages.  
+📚 Currently pursuing a Bachelor's degree in Software Engineering. <br/>  
+💻 Enthusiastic about coding, problem-solving, and building innovative software solutions.<br/>  
+🌱 Constantly learning and exploring new technologies and programming languages.  <br/>  
   
 
 
