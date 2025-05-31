@@ -8,6 +8,18 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 💭 **Random Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<br>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
 ---
@@ -118,26 +130,10 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
-### 💭 **Random Dev Quote**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### ⚡ **The Bat-Signal Has Been Lit**
 
-> **"In a world full of bugs, be the debugger. 🦇💻"**
-> 
-> *Code by day, optimize by night - The Dark Knight Developer rises!*
-> 
+> **"In a world full of bugs, be the debugger. 🦇💻"**  
+> *Code by day, optimize by night - The Dark Knight Developer rises!*  
 > **"Every line of code is a step towards digital justice."**
 
 ---
