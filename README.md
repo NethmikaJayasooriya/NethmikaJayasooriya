@@ -14,23 +14,13 @@
 
 ---
 
-<div align="center">
-
-## 🏆 **GitHub Achievements**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nethmikajayasooriya&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 **About Me**
 
 **💼 Professional Focus:** Full Stack Developer & Passionate Problem Solver 💻  
 **🔧 Core Expertise:** Java, Spring Boot, React, Angular & System Architecture  
-**🎯 Current Mission:** Building scalable microservices and modern web applications  
+**🎯 Mission:** Building scalable microservices and modern web applications  
 **📍 Location:** Sri Lanka 🇱🇰  
 **🌟 Philosophy:** *"Code with purpose, build with passion, deliver with excellence"*
 
@@ -43,14 +33,12 @@
 ## 💻 **Technology Stack**
 
 ### **🛠️ Backend Development**
-<p align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-</p>
 
 ### **🎨 Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -133,10 +121,13 @@
 
 <div align="center">
 
-## 🚀 **Available For**
+## 🚀 **Open to Opportunities**
 
-💼 **Full-time positions** | 🤝 **Contract/Freelance work** | 💡 **Technical consulting** | 📝 **Code reviews**  
-🌟 **Open source contributions** | 🎓 **Mentoring developers** | ✍️ **Technical writing**
+✅ **Full-Time Developer Roles**  
+✅ **Remote/Hybrid Engineering Positions**  
+✅ **Freelance Projects (Web / API / Cloud)**  
+✅ **Technical Consulting for Startups & Teams**  
+✅ **Open Source Collaborations & Mentoring**
 
 </div>
 
@@ -154,13 +145,13 @@
 
 <div align="center">
 
-### 🌟 **Show Your Support**
+### 🌟 **Support My Work**
 
-If you find my work valuable:
-- ⭐ **Star my repositories** - It means a lot!
-- 🔄 **Share projects** you find useful
-- 🤝 **Connect and collaborate** on interesting projects
-- 💬 **Provide feedback** - Always looking to improve
+If you find my work helpful:
+- ⭐ Star my repositories  
+- 🔄 Share and recommend useful projects  
+- 💬 Provide feedback or ideas  
+- 🤝 Reach out for collaborations
 
 [![Visitor Count](https://profile-counter.glitch.me/nethmikajayasooriya/count.svg)](https://github.com/nethmikajayasooriya)
 
