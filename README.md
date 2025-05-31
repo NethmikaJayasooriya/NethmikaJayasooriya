@@ -2,7 +2,7 @@
   
 # 👋 Hello World! I'm **Nethmika Gimhana**
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=🚀+Full+Stack+Developer;Crafting+Digital+Solutions+⚡;Java+%7C+Spring+Boot+%7C+React+Expert;Building+Tomorrow's+Applications+🌟" alt="Typing SVG" />
 
@@ -31,23 +31,10 @@
 **💼 Professional Focus:** Full Stack Developer & Passionate Problem Solver 💻  
 **🔧 Core Expertise:** Java, Spring Boot, React, Angular & System Architecture  
 **🎯 Current Mission:** Building scalable microservices and modern web applications  
-**💡 Passion:** Transforming complex business requirements into elegant, efficient solutions  
 **📍 Location:** Sri Lanka 🇱🇰  
 **🌟 Philosophy:** *"Code with purpose, build with passion, deliver with excellence"*
 
-**🔥 What Drives Me:**
-- Creating robust, scalable applications that make a difference
-- Writing clean, maintainable code that stands the test of time
-- Collaborating with teams to solve complex technical challenges
-- Continuous learning and staying ahead of technology trends
-- Mentoring fellow developers and sharing knowledge
-
-**⚡ Current Focus Areas:**
-- Microservices Architecture & Cloud Native Development
-- Modern Frontend Frameworks & User Experience
-- DevOps Practices & CI/CD Implementation
-- Database Optimization & Performance Tuning
-- API Design & Security Best Practices
+**⚡ Current Focus:** Microservices Architecture, Cloud Native Development, and Modern Frontend Frameworks
 
 ---
 
@@ -146,17 +133,8 @@
 
 ## 🚀 **Available For**
 
-### 💼 **Professional Opportunities**
-- **Full-time positions** - Ready to contribute to innovative teams
-- **Contract/Freelance work** - Available for project-based collaborations
-- **Technical consulting** - Expertise in system architecture and development
-- **Code reviews** - Helping teams improve code quality and practices
-
-### 🎓 **Community Involvement**
-- **Open source contributions** - Contributing to meaningful projects
-- **Mentoring developers** - Sharing knowledge and helping others grow
-- **Technical writing** - Creating tutorials and documentation
-- **Speaking engagements** - Available for tech talks and workshops
+💼 **Full-time positions** | 🤝 **Contract/Freelance work** | 💡 **Technical consulting** | 📝 **Code reviews**  
+🌟 **Open source contributions** | 🎓 **Mentoring developers** | ✍️ **Technical writing** | 🎤 **Speaking engagements**
 
 </div>
 
