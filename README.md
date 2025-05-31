@@ -2,9 +2,9 @@
   
 # 👋 Hello World! I'm **Nethmika Gimhana**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
@@ -142,7 +142,7 @@
 
 ### ⚡ **The Bat-Signal Has Been Lit**
 
-<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 > **"I am vengeance, I am the night, I am... BATMAN DEVELOPER! 🦇💻"**
 > 
@@ -152,7 +152,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **The Dark Knight has visited your profile! Ready to join forces? 🦇🚀**
 
