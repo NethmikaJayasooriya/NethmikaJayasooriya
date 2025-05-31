@@ -2,11 +2,11 @@
   
 # 👋 Hello World! I'm **Nethmika Gimhana**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
-
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
@@ -134,15 +134,15 @@
 
 ### ⚡ **The Bat-Signal Has Been Lit**
 
-> **"I am vengeance, I am the night, I am... BATMAN DEVELOPER! 🦇💻"**
+> **"In a world full of bugs, be the debugger. 🦇💻"**
 > 
-> *Building digital fortresses by day, hunting bugs by night!*
+> *Code by day, optimize by night - The Dark Knight Developer rises!*
 > 
-> **"It's not who I am underneath, but what I code that defines me."**
+> **"Every line of code is a step towards digital justice."**
 
 ---
 
-**The Dark Knight has visited your profile! Ready to join forces? 🦇🚀**
+**The Dark Knight has visited your profile! Ready to join the coding crusade? 🦇🚀**
 
 [![Visitor Count](https://profile-counter.glitch.me/nethmikajayasooriya/count.svg)](https://github.com/nethmikajayasooriya)
 
