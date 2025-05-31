@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Code+Architect+%7C+Tech+Educator+%7C+Full+Stack+Engineer;Nethmika+Gimhana+-+Crafting+Innovative+Digital+Solutions;Passionate+about+Clean+Code%2C+System+Design%2C+and+Tech+Leadership" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=🚀+Full+Stack+Developer;Crafting+Digital+Solutions+⚡;Java+%7C+Spring+Boot+%7C+React+Expert;Building+Tomorrow's+Applications+🌟;Passionate+Problem+Solver+💻" alt="Typing SVG" />
 
 </div>
 
@@ -14,74 +14,231 @@
 
 ---
 
-### 🌟 About Me
-
-🎯 **Full Stack Developer** specialized in crafting scalable enterprise solutions.  
-💼 **Founder of Batstack Academy** – Empowering the next generation of developers.  
-🧠 Tech Educator, Community Builder, and Mentor with a passion for clean architecture.  
-🌐 Experienced in microservices, API design, and modern frontend frameworks.  
-📍 Based in Sri Lanka | 🌍 Working Globally
-
----
-
-### 🚀 What I Do
-
-- ✅ Design and build **enterprise-level applications** using Java, Spring Boot & React
-- ✅ Guide and teach new developers through **technical content** and mentorship
-- ✅ Lead and contribute to open-source and **community-driven projects**
-- ✅ Explore **DevOps, Cloud Computing**, and clean architecture patterns
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Backend**  
-`Java` • `Spring Boot` • `Spring Security` • `Node.js` • `Python`
-
-**Frontend**  
-`React` • `Angular` • `TypeScript` • `Tailwind CSS` • `JavaScript`
-
-**Databases**  
-`MySQL` • `MongoDB` • `PostgreSQL` • `Redis`
-
-**DevOps & Cloud**  
-`Docker` • `Kubernetes` • `Jenkins` • `AWS` • `CI/CD`
-
-**Tools**  
-`Git` • `IntelliJ` • `VS Code` • `Postman` • `Figma`
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nethmikajayasooriya&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmikajayasooriya&layout=compact&theme=radical&hide_border=true" />
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmikajayasooriya&theme=radical&hide_border=true" />
+
+## 🏆 **GitHub Achievements**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nethmikajayasooriya&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-### 💬 Connect with Me
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="center">
-  <a href="https://linkedin.com/in/nethmika-jayasooriya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:work.nethmika@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/nethmika.gimhana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+### 🚀 **About Me**
 
----
+**💼 Professional Focus:** Full Stack Developer specializing in enterprise applications  
+**🔧 Core Expertise:** Java, Spring Boot, React, Angular & System Architecture  
+**🎯 Current Mission:** Building scalable microservices and modern web applications  
+**💡 Passion:** Transforming complex business requirements into elegant, efficient solutions  
+**📍 Location:** Sri Lanka 🇱🇰  
+**🌟 Philosophy:** *"Code with purpose, build with passion, deliver with excellence"*
 
-### 💡 Quote I Live By
+**🔥 What Drives Me:**
+- Creating robust, scalable applications that make a difference
+- Writing clean, maintainable code that stands the test of time
+- Collaborating with teams to solve complex technical challenges
+- Continuous learning and staying ahead of technology trends
+- Mentoring fellow developers and sharing knowledge
 
-> _"Clean code is not just code that works. It’s elegant, readable, and maintainable."_  
-> _"Build solutions, not just software."_  
-> _"Your code reflects your mindset. Think like a problem solver."_
+**⚡ Current Focus Areas:**
+- Microservices Architecture & Cloud Native Development
+- Modern Frontend Frameworks & User Experience
+- DevOps Practices & CI/CD Implementation
+- Database Optimization & Performance Tuning
+- API Design & Security Best Practices
 
 ---
 
 <div align="center">
 
-#### 🚧 Open to freelance, collaborations, and tech talks. Let's build the future of software together.
+## 🎯 **What I'm Working On**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/microservices/microservices.png" width="50"/>
+<br><strong>Microservices</strong>
+<br><sub>Scalable architecture patterns</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50"/>
+<br><strong>Modern Frontend</strong>
+<br><sub>React & Next.js applications</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50"/>
+<br><strong>DevOps</strong>
+<br><sub>Containerization & automation</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="50"/>
+<br><strong>Cloud Computing</strong>
+<br><sub>AWS & serverless architecture</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 **Technology Stack**
+
+### **🛠️ Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **🎨 Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **📱 Mobile & Design**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+### **🗄️ Database & Storage**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **🔧 Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **Skills & Expertise**
+
+```text
+Java & Spring Ecosystem  ████████████████████████████████████████ 95%
+Frontend Development     ███████████████████████████████████████  90%
+Database Design          ██████████████████████████████████       85%
+System Architecture      ██████████████████████████████████       85%
+Cloud Platforms         ███████████████████████████████          80%
+DevOps & CI/CD          ██████████████████████████████           75%
+Mobile Development      ███████████████████████████              70%
+UI/UX Design           ██████████████████████████               65%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Statistics**
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=nethmikajayasooriya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmikajayasooriya&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmikajayasooriya&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethmikajayasooriya&theme=github-compact&hide_border=true&area=true" width="800" alt="Contribution Graph"/>
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+<a href="https://www.linkedin.com/in/nethmika-jayasooriya/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://facebook.com/nethmika.gimhana/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:work.nethmika@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+
+### 📧 **Professional Inquiries**
+📩 **Email:** work.nethmika@gmail.com  
+💼 **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/nethmika-jayasooriya/)
+
+**⚡ Response Time:** Within 24 hours
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **Available For**
+
+### 💼 **Professional Opportunities**
+- **Full-time positions** - Ready to contribute to innovative teams
+- **Contract/Freelance work** - Available for project-based collaborations
+- **Technical consulting** - Expertise in system architecture and development
+- **Code reviews** - Helping teams improve code quality and practices
+
+### 🎓 **Community Involvement**
+- **Open source contributions** - Contributing to meaningful projects
+- **Mentoring developers** - Sharing knowledge and helping others grow
+- **Technical writing** - Creating tutorials and documentation
+- **Speaking engagements** - Available for tech talks and workshops
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+### 💭 **Latest Tech Insights**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Show Your Support**
+
+If you find my work valuable:
+- ⭐ **Star my repositories** - It means a lot!
+- 🔄 **Share projects** you find useful
+- 🤝 **Connect and collaborate** on interesting projects
+- 💬 **Provide feedback** - Always looking to improve
+
+[![Visitor Count](https://profile-counter.glitch.me/nethmikajayasooriya/count.svg)](https://github.com/nethmikajayasooriya)
 
 </div>
