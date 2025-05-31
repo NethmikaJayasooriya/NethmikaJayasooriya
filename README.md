@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
-
 </div>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
 ---
 
@@ -118,19 +118,11 @@
 
 <div align="center">
 
-## 🐍 **Watch My Contributions**
-
-<img src="https://raw.githubusercontent.com/nethmikajayasooriya/nethmikajayasooriya/output/snake.svg" alt="Snake animation" />
-
-*Note: Add the snake workflow to your repository to enable this animation*
-
-</div>
-
 ---
 
 <div align="center">
 
-## 💭 **Random Dev Quote**
+### 💭 **Random Dev Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
@@ -142,8 +134,6 @@
 
 ### ⚡ **The Bat-Signal Has Been Lit**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 > **"I am vengeance, I am the night, I am... BATMAN DEVELOPER! 🦇💻"**
 > 
 > *Building digital fortresses by day, hunting bugs by night!*
@@ -151,8 +141,6 @@
 > **"It's not who I am underneath, but what I code that defines me."**
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **The Dark Knight has visited your profile! Ready to join forces? 🦇🚀**
 
