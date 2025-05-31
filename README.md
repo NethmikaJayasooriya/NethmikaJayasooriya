@@ -134,7 +134,7 @@
 ## 🚀 **Available For**
 
 💼 **Full-time positions** | 🤝 **Contract/Freelance work** | 💡 **Technical consulting** | 📝 **Code reviews**  
-🌟 **Open source contributions** | 🎓 **Mentoring developers** | ✍️ **Technical writing** | 🎤 **Speaking engagements**
+🌟 **Open source contributions** | 🎓 **Mentoring developers** | ✍️ **Technical writing**
 
 </div>
 
