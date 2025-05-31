@@ -2,7 +2,7 @@
   
 # 👋 Hello World! I'm **Nethmika Gimhana**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="500">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=🚀+Full+Stack+Developer;Crafting+Digital+Solutions+⚡;Java+%7C+Spring+Boot+%7C+React+Expert;Building+Tomorrow's+Applications+🌟" alt="Typing SVG" />
 
