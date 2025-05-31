@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
@@ -23,46 +22,35 @@
 
 ---
 
-<img align="right" alt="Batman Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Batman Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🦇 **About The Dark Knight of Code**
 
-```typescript
-const batman = {
-    alias: "Nethmika Gimhana",
-    location: "🇱🇰 Gotham (Sri Lanka)",
-    role: "The Fullstack Vigilante",
-    mission: "Protecting codebases from bugs and vulnerabilities",
-    superPowers: [
-        "Java Mastery 🥷",
-        "Spring Boot Wizardry 🔮", 
-        "Frontend Sorcery ⚡",
-        "Database Guardian 🛡️",
-        "API Architecture 🏗️"
-    ],
-    batCave: "Where clean code is born",
-    currentFocus: "Building scalable web fortresses",
-    codePhilosophy: "With great code comes great responsibility",
-    weakness: "Poorly written documentation (my kryptonite)",
-    funFact: "I debug in the shadows and deploy at dawn 🌅"
-};
+**🌃 By Day:** Building enterprise applications with Java & Spring Boot  
+**🌙 By Night:** Crafting responsive UIs with React & Angular  
+**🛡️ Guardian of:** Clean code, secure APIs, and optimized databases  
+**⚔️ Fighting Against:** Memory leaks, security vulnerabilities, and spaghetti code  
+**🎯 Current Mission:** Mastering microservices architecture and cloud deployment  
+**💬 Call the Bat-Signal for:** Java, Spring Boot, React, Angular, System Design  
+**⚡ Superpower:** Turning complex business requirements into elegant solutions  
 
-// Batman's Code of Ethics
-const codeEthics = {
-    rule1: "Never ship untested code",
-    rule2: "Always comment your complex logic", 
-    rule3: "Protect user data like it's Gotham's safety",
-    rule4: "Refactor relentlessly, optimize fearlessly"
-};
-```
+**🏙️ Location:** Gotham City (Sri Lanka) 🇱🇰  
+**🦸‍♂️ Role:** The Fullstack Vigilante  
+**🎭 Mission:** Protecting codebases from bugs and vulnerabilities  
 
-- 🦇 **By Day**: Building enterprise applications with Java & Spring Boot
-- 🌙 **By Night**: Crafting responsive UIs with React & Angular
-- 🛡️ **Guardian of**: Clean code, secure APIs, and optimized databases
-- ⚔️ **Fighting Against**: Memory leaks, security vulnerabilities, and spaghetti code
-- 🎯 **Current Mission**: Mastering microservices architecture and cloud deployment
-- 💬 **Call the Bat-Signal for**: Java, Spring Boot, React, Angular, System Design
-- ⚡ **Superpower**: Turning complex business requirements into elegant solutions
+**💡 My Code Philosophy:**  
+*"With great code comes great responsibility"*  
+*"I debug in the shadows and deploy at dawn"*  
+
+**🔥 Superpowers:**
+- Java Mastery 🥷
+- Spring Boot Wizardry 🔮  
+- Frontend Sorcery ⚡
+- Database Guardian 🛡️
+- API Architecture 🏗️
+
+**⚠️ Weakness:** Poorly written documentation (my kryptonite)  
+**🦇 Fun Fact:** I turn coffee into scalable APIs while protecting Gotham's digital infrastructure!
 
 ---
 
