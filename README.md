@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=🚀+Full+Stack+Developer;Crafting+Digital+Solutions+⚡;Java+%7C+Spring+Boot+%7C+React+Expert;Building+Tomorrow's+Applications+🌟;Passionate+Problem+Solver+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=🚀+Full+Stack+Developer;Crafting+Digital+Solutions+⚡;Java+%7C+Spring+Boot+%7C+React+Expert;Building+Tomorrow's+Applications+🌟" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ### 🚀 **About Me**
 
-**💼 Professional Focus:** Full Stack Developer specializing in enterprise applications  
+**💼 Professional Focus:** Full Stack Developer & Passionate Problem Solver 💻  
 **🔧 Core Expertise:** Java, Spring Boot, React, Angular & System Architecture  
 **🎯 Current Mission:** Building scalable microservices and modern web applications  
 **💡 Passion:** Transforming complex business requirements into elegant, efficient solutions  
@@ -48,39 +48,6 @@
 - DevOps Practices & CI/CD Implementation
 - Database Optimization & Performance Tuning
 - API Design & Security Best Practices
-
----
-
-<div align="center">
-
-## 🎯 **What I'm Working On**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/microservices/microservices.png" width="50"/>
-<br><strong>Microservices</strong>
-<br><sub>Scalable architecture patterns</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50"/>
-<br><strong>Modern Frontend</strong>
-<br><sub>React & Next.js applications</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50"/>
-<br><strong>DevOps</strong>
-<br><sub>Containerization & automation</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="50"/>
-<br><strong>Cloud Computing</strong>
-<br><sub>AWS & serverless architecture</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -138,25 +105,6 @@
 
 <div align="center">
 
-## 📈 **Skills & Expertise**
-
-```text
-Java & Spring Ecosystem  ████████████████████████████████████████ 95%
-Frontend Development     ███████████████████████████████████████  90%
-Database Design          ██████████████████████████████████       85%
-System Architecture      ██████████████████████████████████       85%
-Cloud Platforms         ███████████████████████████████          80%
-DevOps & CI/CD          ██████████████████████████████           75%
-Mobile Development      ███████████████████████████              70%
-UI/UX Design           ██████████████████████████               65%
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 **GitHub Statistics**
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=nethmikajayasooriya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -167,8 +115,6 @@ UI/UX Design           ███████████████████
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nethmikajayasooriya&theme=github-compact&hide_border=true&area=true" width="800" alt="Contribution Graph"/>
 
 </div>
-
-
 
 ---
 
@@ -185,7 +131,6 @@ UI/UX Design           ███████████████████
 <a href="mailto:work.nethmika@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 
 ### 📧 **Professional Inquiries**
 📩 **Email:** work.nethmika@gmail.com  
@@ -214,8 +159,6 @@ UI/UX Design           ███████████████████
 - **Speaking engagements** - Available for tech talks and workshops
 
 </div>
-
-
 
 ---
 
