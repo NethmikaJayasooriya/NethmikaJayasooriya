@@ -2,9 +2,10 @@
   
 # 👋 Hello World! I'm **Nethmika Gimhana**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🇱🇰+Passionate+Fullstack+Developer;Java%2C+Spring+Boot+%26+Frontend+Magic;Turning+Coffee+into+Code+☕→💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
@@ -22,25 +23,46 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Batman Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-### 🚀 **About Me**
+### 🦇 **About The Dark Knight of Code**
 
 ```typescript
-const nethmika = {
-    location: "🇱🇰 Sri Lanka",
-    role: "Fullstack Developer",
-    passion: ["Clean Code", "System Design", "Problem Solving"],
-    currentFocus: "Building scalable web applications",
-    lifePhilosophy: "Code with purpose, debug with patience",
-    funFact: "I turn coffee ☕ into scalable APIs and responsive UIs"
+const batman = {
+    alias: "Nethmika Gimhana",
+    location: "🇱🇰 Gotham (Sri Lanka)",
+    role: "The Fullstack Vigilante",
+    mission: "Protecting codebases from bugs and vulnerabilities",
+    superPowers: [
+        "Java Mastery 🥷",
+        "Spring Boot Wizardry 🔮", 
+        "Frontend Sorcery ⚡",
+        "Database Guardian 🛡️",
+        "API Architecture 🏗️"
+    ],
+    batCave: "Where clean code is born",
+    currentFocus: "Building scalable web fortresses",
+    codePhilosophy: "With great code comes great responsibility",
+    weakness: "Poorly written documentation (my kryptonite)",
+    funFact: "I debug in the shadows and deploy at dawn 🌅"
+};
+
+// Batman's Code of Ethics
+const codeEthics = {
+    rule1: "Never ship untested code",
+    rule2: "Always comment your complex logic", 
+    rule3: "Protect user data like it's Gotham's safety",
+    rule4: "Refactor relentlessly, optimize fearlessly"
 };
 ```
 
-- 🔭 Currently working on **scalable web applications**
-- 🌱 Learning **microservices architecture** and **cloud technologies**
-- 💬 Ask me about **Java, Spring Boot, React, Angular**
-- ⚡ Fun fact: **I debug faster after my second cup of coffee!**
+- 🦇 **By Day**: Building enterprise applications with Java & Spring Boot
+- 🌙 **By Night**: Crafting responsive UIs with React & Angular
+- 🛡️ **Guardian of**: Clean code, secure APIs, and optimized databases
+- ⚔️ **Fighting Against**: Memory leaks, security vulnerabilities, and spaghetti code
+- 🎯 **Current Mission**: Mastering microservices architecture and cloud deployment
+- 💬 **Call the Bat-Signal for**: Java, Spring Boot, React, Angular, System Design
+- ⚡ **Superpower**: Turning complex business requirements into elegant solutions
 
 ---
 
@@ -130,19 +152,21 @@ const nethmika = {
 
 <div align="center">
 
-### ⚡ **Fun Fact Zone**
+### ⚡ **The Bat-Signal Has Been Lit**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="700">
 
-> **"Building beautiful apps from backend to frontend — one commit at a time 💻🚀"**
+> **"I am vengeance, I am the night, I am... BATMAN DEVELOPER! 🦇💻"**
 > 
-> *Coffee-driven developer by day, bug hunter by night!*
+> *Building digital fortresses by day, hunting bugs by night!*
+> 
+> **"It's not who I am underneath, but what I code that defines me."**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+**The Dark Knight has visited your profile! Ready to join forces? 🦇🚀**
 
 [![Visitor Count](https://profile-counter.glitch.me/nethmikajayasooriya/count.svg)](https://github.com/nethmikajayasooriya)
 
