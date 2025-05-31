@@ -14,6 +14,51 @@
   style="margin-top: 30px;" 
   alt="Waving Hand" />
 
+### 🌟 Welcome to my digital universe! 
+*Passionate about creating scalable applications and turning ideas into reality*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethmika-gimhana)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<!-- About Me Section -->
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+```javascript
+const nethmika = {
+    location: "Sri Lanka 🇱🇰",
+    role: "Full Stack Developer",
+    passion: ["Clean Code", "Problem Solving", "Innovation"],
+    currentlyLearning: ["Microservices", "Cloud Architecture", "AI/ML"],
+    funFact: "I debug code faster than I debug my life! 😄",
+    lifePhilosophy: "Code is poetry written in logic"
+};
+```
+
+---
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethmika-gimhana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmika-gimhana&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nethmika-gimhana&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -97,5 +142,90 @@
       width="400" 
       alt="Coding Animation" />
   </div>
+
+</div>
+
+---
+
+<!-- Current Projects Section -->
+<div align="center">
+
+## 🔥 What I'm Working On
+
+</div>
+
+```yaml
+current_projects:
+  - name: "Enterprise Resource Planning System"
+    tech: ["Spring Boot", "React", "PostgreSQL", "Docker"]
+    status: "In Development 🚧"
+    
+  - name: "Real-time Chat Application"
+    tech: ["Node.js", "Socket.io", "React", "MongoDB"]
+    status: "Testing Phase 🧪"
+    
+  - name: "Mobile Expense Tracker"
+    tech: ["Flutter", "Firebase", "Provider"]
+    status: "UI/UX Design 🎨"
+```
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nethmika-gimhana&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+**Open for opportunities | Available for freelance projects | Always ready to learn something new!**
+
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nethmika-gimhana">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ From [Nethmika Gimhana](https://github.com/nethmika-gimhana) | Made with ❤️ and lots of ☕**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nethmika-gimhana&color=blueviolet&style=for-the-badge)
 
 </div>
