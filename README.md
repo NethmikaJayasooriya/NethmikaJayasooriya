@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🦇+The+Dark+Knight+of+Code;Nethmika+Gimhana+%7C+Batman+Developer;Protecting+Gotham's+Codebases+⚔️;Java%2C+Spring+Boot+%26+Frontend+Magic" alt="Typing SVG" />
 
-</div>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nethmikajayasooriya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nethmikajayasooriya)
 
