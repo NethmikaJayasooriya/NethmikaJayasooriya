@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical" width="400" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/><br/>
 
