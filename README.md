@@ -20,9 +20,6 @@
   </a>
 </p>
 
-<br/>
-
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,mysql,aws,docker&theme=dark" />
@@ -31,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmikaJayasooriya&theme=algolia&hide_border=true" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=NethmikaJayasooriya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -43,7 +40,9 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=600&lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me." alt="Batman Quote" />
+</a>
 
 <br/><br/>
 
